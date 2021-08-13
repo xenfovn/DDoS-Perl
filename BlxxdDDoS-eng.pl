@@ -1,7 +1,7 @@
 #!/usr/bin/perl
  
 # DDoS Script made by https://github.com/zBlxxded/
- 
+
 use Socket;
 use strict;
 
