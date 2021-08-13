@@ -7,7 +7,7 @@ use strict;
 
 if ($#ARGV != 3) {
   print "\n██████╗ ██╗     ██╗  ██╗██╗  ██╗██████╗     ██████╗ ██████╗  ██████╗ ███████╗\n██╔══██╗██║     ╚██╗██╔╝╚██╗██╔╝██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝\n██████╔╝██║      ╚███╔╝  ╚███╔╝ ██║  ██║    ██║  ██║██║  ██║██║   ██║███████╗\n██╔══██╗██║      ██╔██╗  ██╔██╗ ██║  ██║    ██║  ██║██║  ██║██║   ██║╚════██║\n██████╔╝███████╗██╔╝ ██╗██╔╝ ██╗██████╔╝    ██████╔╝██████╔╝╚██████╔╝███████║\n╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝     ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝";
-  print "\n\n» Uso correcto: perl BlxxdDDoS.pl [IP] [Puerto] [Paquetes] [Tiempo]\n\n";
+  print "\n\n» Uso correcto: perl BlxxdDDoS.pl [IP] [Puerto] [Paquetes] [Tiempo]\n\n ";
   print "» Puerto: Usar puerto aleatorio entre 1 y 65535.\n";
   print "» Paquetes: Usar entre 64 y 1024 paquetes aleatorios.\n";
   print "» Tiempo: En segundos.\n\n";
