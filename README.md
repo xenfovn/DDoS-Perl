@@ -21,6 +21,7 @@ __Ejemplo:__
 ```perl
 perl BlxxdDDoS-esp.pl 0.0.0.0 80 100 30
 ```
+<details><summary>PREVIEW</summary><img src="https://github.com/zBlxxded/DDoS-Perl/blob/main/preview.png"></details>
 
 # <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/drop-of-blood_1fa78.png" height="30px" width="30px"> Credits/Créditos
 
